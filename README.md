@@ -1,7 +1,6 @@
 # EcoCredit
 
 [![Solidity](https://img.shields.io/badge/Solidity-^0.8.20-blue)](https://soliditylang.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Ethereum](https://img.shields.io/badge/Ethereum-ERC--20-green)](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
 [![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-Contracts-v4.x-orange)](https://openzeppelin.com/contracts/)
 
