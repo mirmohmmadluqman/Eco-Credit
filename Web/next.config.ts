@@ -1,7 +1,7 @@
-import type {NextConfig} from 'next';
+import type { NextConfig } from 'next';
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  output: 'export', // Add this for static site generation
   typescript: {
     ignoreBuildErrors: true,
   },
@@ -57,7 +57,7 @@ const nextConfig: NextConfig = {
         hostname: 'i.pravatar.cc',
         port: '',
         pathname: '/**',
-      }
+      },
     ],
   },
 };
